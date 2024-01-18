@@ -1,3 +1,4 @@
+
 # Res-Q
 Sistem Pemanggilan Layanan Darurat Terpadu ini dirancang untuk mempercepat dan meningkatkan efisiensi penanganan gawat darurat di berbagai negara berkembang seperti Indonesia.
 
@@ -13,8 +14,6 @@ Teknologi yang digunakan adalah:
 - Kotlin (Jetpack Compose)
 - Ktor untuk HTTP Client
 
-Untuk penggunaan, registrasi sudah bisa dengan menggunakan nomor asli (OTP Sudah bekerja). 
-
 ## Output
 
  - App Client: https://drive.google.com/file/d/1Vo8D_Az0xMTnkR7YVcAp2s6V3XpK2J2M/view?usp=sharing
@@ -22,7 +21,7 @@ Untuk penggunaan, registrasi sudah bisa dengan menggunakan nomor asli (OTP Sudah
  - Website Admin: https://resq-admin.vercel.app/
 
 ## Kredensial
-Namun jika ingin menggunakan nomor demo, dapat menggunakan:
+Untuk penggunaan, registrasi sudah bisa dengan menggunakan nomor asli (OTP Sudah bekerja).  Namun jika ingin menggunakan nomor demo, dapat menggunakan:
  - nomor: +6281-553-993-193 
  - OTP: 123456
 
