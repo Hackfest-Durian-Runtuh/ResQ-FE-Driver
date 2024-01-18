@@ -28,3 +28,11 @@ Namun jika ingin menggunakan nomor demo, dapat menggunakan:
  - OTP: 123456
 
 Kemudian untuk ssnya adalah: 
+
+<img src="https://github.com/Hackfest-Durian-Runtuh/ResQ-FE-Driver/blob/master/ss/login.JPG?raw=true" alt="drawing" width="400"/>
+
+<img src="https://github.com/Hackfest-Durian-Runtuh/ResQ-FE-Driver/blob/master/ss/logged_in.JPG?raw=true" alt="drawing" width="400"/>
+
+<img src="https://github.com/Hackfest-Durian-Runtuh/ResQ-FE-Driver/blob/master/ss/diterima.JPG?raw=true" alt="drawing" width="400"/>
+
+<img src="https://github.com/Hackfest-Durian-Runtuh/ResQ-FE-Driver/blob/master/ss/panggilan_masuk.JPG?raw=true" alt="drawing" width="400"/>
